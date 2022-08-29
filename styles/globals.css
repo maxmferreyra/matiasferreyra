@@ -238,20 +238,14 @@ nav a:hover {
 
 .container-aboutMe {
   height: 78vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;
-  background-image: url(../public/img/18033110_10213579583430931_4711515667954345015_n.jpg);
-  background-size: cover;
   width: 95%;
 }
 
 .about-me {
   font-family: 'Rubik', sans-serif;
   padding-left: 40px;
-  width: 40%;
-  font-size: 0.90em;
+  width: 50%;
+  font-size: 1em;
   line-height: 1.6em;
 }
 
