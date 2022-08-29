@@ -4,27 +4,15 @@ import Layout from '../components/Layout';
     return (
       <Layout>
         <div className="slider">
-          <ul >
-            <li id="slide1">
+          <ul>
+            <li>
               <img src="./img/unacasacondosperros1.jpg" alt="unacasacondosperros"/>
             </li>
-            <li id="slide2">
+            <li>
               <img src="./img/unacasacondosperros2.jpg" alt="unacasacondosperros"/>
             </li>
-            <li id="slide3">
+            <li>
               <img src="./img/unacasacondosperros3.png" alt="unacasacondosperros"/>
-            </li>
-          </ul>
-  
-          <ul className="menu">
-            <li>
-              <a href="#slide1"></a>
-            </li>
-            <li>
-              <a href="#slide2"></a>
-            </li>
-            <li>
-              <a href="#slide3"></a>
             </li>
           </ul>
         </div>

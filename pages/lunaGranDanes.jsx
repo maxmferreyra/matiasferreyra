@@ -4,17 +4,17 @@ export default function LunaGranDanes() {
   return (
     <Layout>
       <div className="slider">
-          <ul >
-          <li id="slide1">
+          <ul>
+          <li>
             <img src="./img/grandanes1.png" alt="" />
           </li>
-          <li id="slide2">
+          <li>
             <img src="./img/grandanes2.png" alt="" />
           </li>
-          <li id="slide3">
+          <li >
             <img src="./img/grandanes3.png" alt=""/>
           </li>
-          <li id="slide4">
+          <li>
             <img src="./img/grandanes4.png" alt=""/>
           </li>
         </ul>

@@ -5,16 +5,16 @@ import Layout from '../components/Layout';
       <Layout>
         <div className="slider">
           <ul >
-            <li id="slide1">
+            <li>
               <img src="./img/nosinventamosunafuera1.png" alt="Nos inventamos una fuerza"/>
             </li>
-            <li id="slide2">
+            <li>
               <img src="./img/nosinventamosunafuera2.png" alt="Nos inventamos una fuerza"/>
             </li>
-            <li id="slide3">
+            <li>
               <img src="./img/nosinventamosunafuera3.jpg" alt=""/>
             </li>
-            <li id="slide4">
+            <li>
               <img src="./img/nosinventamosunafuera4.JPG" alt=""/>
             </li>
           </ul>

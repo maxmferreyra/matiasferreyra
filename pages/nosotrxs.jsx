@@ -5,41 +5,20 @@ import Layout from '../components/Layout';
       <Layout>
         <div className="slider">
           <ul >
-            <li id="slide1">
+            <li>
               <img src="./img/nosotrxs1.jpg" alt="Nosotrxs"/>
             </li>
-            <li id="slide2">
+            <li>
               <img src="./img/nosotrxs2.png" alt="Nosotrxs"/>
             </li>
-            <li id="slide3">
+            <li>
               <img src="./img/nosotrxs3.jpg" alt="Nosotrxs"/>
             </li>
-            <li id="slide4">
+            <li>
               <img src="./img/nosotrxs4.jpg" alt="Nosotrxs"/>
             </li>
           </ul>
   
-          <ul className="menu">
-            <li>
-              <a href="#slide1"></a>
-            </li>
-            <li>
-              <a href="#slide2"></a>
-            </li>
-            <li>
-              <a href="#slide3"></a>
-            </li>
-            <li>
-              <a href="#slide4"></a>
-            </li>
-            <li>
-              <a href="#slide5"></a>
-            </li>
-            <li>
-              <a href="#slide6"></a>
-            </li>
-            
-          </ul>
         </div>
         <div className='info-proyect'>
           <h5>NOS(OTRXS)</h5>

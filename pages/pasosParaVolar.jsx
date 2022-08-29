@@ -4,28 +4,18 @@ export default function PasosParaVolar() {
   return (
     <Layout>
      <div className="slider">
-          <ul >
-          <li id="slide1">
+          <ul>
+          <li>
             <img src="./img/pasosParaVolar1.png" alt="" />
           </li>
-          <li id="slide2">
+          <li>
             <img src="./img/pasosParaVolar2.png" alt="" />
           </li>
-          <li id="slide3">
+          <li>
             <img src="./img/pasosParaVolar3.jpeg" alt=""/>
           </li>   
         </ul>
-        <ul className="menu">
-          <li>
-            <a href="#slide1"></a>
-          </li>
-          <li>
-            <a href="#slide2"></a>
-          </li>
-          <li>
-            <a href="#slide3"></a>
-          </li>
-        </ul>
+        
       </div>
       <div className='info-proyect'>
         <h5>PASOS PARA VOLAR</h5>

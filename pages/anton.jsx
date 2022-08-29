@@ -5,16 +5,16 @@ export default function anton() {
     <Layout>
       <div className="slider">
           <ul >
-          <li id="slide1">
+          <li>
             <img src="./img/anton.jpg"/>
           </li>
-          <li id="slide2">
+          <li>
             <img src="./img/anton2.png"/>
           </li>
-          <li id="slide3">
+          <li>
             <img src="./img/anton3.png" alt="" />
           </li>
-          <li id="slide4">
+          <li>
             <img src="./img/anton4.jpg" alt="" />
           </li>
         </ul>

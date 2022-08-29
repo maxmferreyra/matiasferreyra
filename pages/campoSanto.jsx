@@ -5,34 +5,18 @@
       <Layout>
         <div className="slider">
           <ul>
-            <li id="slide1">
+            <li>
               <img src="./img/camposanto1.png" alt="Campo Santo"/>
             </li>
-            <li id="slide2">
+            <li>
               <img src="./img/camposanto2.png" alt="Campo Santo"/>
             </li>
-            <li id="slide3">
+            <li>
               <img src="./img/camposanto3.png" alt="Campo Santo" />
             </li>
-            <li id="slide4">
+            <li>
               <img src="./img/camposanto4.png" alt="Campo Santo"/>
             </li>
-          </ul>
-  
-          <ul className="menu">
-            <li>
-              <a href="#slide1"></a>
-            </li>
-            <li>
-              <a href="#slide2"></a>
-            </li>
-            <li>
-              <a href="#slide3"></a>
-            </li>
-            <li>
-              <a href="#slide4"></a>
-            </li>
-            
           </ul>
         </div>
         <div className='info-proyect'>

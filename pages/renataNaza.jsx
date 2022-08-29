@@ -4,34 +4,21 @@ export default function RenataNaza() {
   return (
     <Layout>
       <div className="slider">
-          <ul >
-          <li id="slide1">
+          <ul>
+          <li>
             <img src="./img/renataNaza1.png" alt="" />
           </li>
-          <li id="slide2">
+          <li>
             <img src="./img/renataNaza2.png" alt="" />
           </li>
-          <li id="slide3">
+          <li>
             <img src="./img/renataNaza3.png" alt=""/>
           </li>
-          <li id="slide4">
+          <li>
             <img src="./img/renataNaza4.png" alt=""/>
           </li>     
         </ul>
-        <ul className="menu">
-          <li>
-            <a href="#slide1"></a>
-          </li>
-          <li>
-            <a href="#slide2"></a>
-          </li>
-          <li>
-            <a href="#slide3"></a>
-          </li>
-          <li>
-            <a href="#slide4"></a>
-          </li>
-        </ul>
+       
       </div>
       <div className='info-proyect'>
         <h5>RENATA, NAZARENO Y EL MUNDO DE LOS SENTIMIENTOS</h5>

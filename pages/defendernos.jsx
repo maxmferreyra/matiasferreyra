@@ -4,33 +4,18 @@ export default function Defendernos() {
   return (
     <Layout>
       <div className="slider">
-          <ul >
-          <li id="slide1">
+          <ul>
+          <li>
             <img src="./img/defendernos1.png" alt=""/>
           </li>
-          <li id="slide2">
+          <li>
             <img src="./img/defendernos2.png" alt=""/>
           </li>
-          <li id="slide3">
+          <li>
             <img src="./img/defendernos3.png" alt="" />
           </li>
-          <li id="slide4">
+          <li>
             <img src="./img/defendernos4.png" alt="" />
-          </li>
-        </ul>
-
-        <ul className="menu">
-          <li>
-            <a href="#slide1"></a>
-          </li>
-          <li>
-            <a href="#slide2"></a>
-          </li>
-          <li>
-            <a href="#slide3"></a>
-          </li>
-          <li>
-            <a href="#slide4"></a>
           </li>
         </ul>
       </div>

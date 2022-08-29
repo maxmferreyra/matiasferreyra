@@ -5,34 +5,20 @@ export default function CruzRoja() {
     <Layout>
       <div className="slider">
           <ul >
-          <li id="slide1">
+          <li>
             <img src="./img/cruzroja1.png"/>
           </li>
-          <li id="slide2">
+          <li>
             <img src="./img/cruzroja2.png"/>
           </li>
-          <li id="slide3">
+          <li>
             <img src="./img/cruzroja3.png" alt="" />
           </li>
-          <li id="slide4">
+          <li>
             <img src="./img/cruzroja4.png" alt="" />
           </li>
         </ul>
 
-        <ul className="menu">
-          <li>
-            <a href="#slide1"></a>
-          </li>
-          <li>
-            <a href="#slide2"></a>
-          </li>
-          <li>
-            <a href="#slide3"></a>
-          </li>
-          <li>
-            <a href="#slide4"></a>
-          </li>
-        </ul>
       </div>
       <div className='info-proyect'>
         <h5>CRUZ ROJA</h5>

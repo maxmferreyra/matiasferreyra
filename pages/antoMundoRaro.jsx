@@ -5,37 +5,20 @@ export default function antonYelMundoRaro() {
     <Layout>
       <div className="slider">
           <ul >
-          <li id="slide1">
+          <li>
             <img src="./img/antonRaro1.jpg"/>
           </li>
-          <li id="slide2">
+          <li>
             <img src="./img/antonRaro2.jpg"/>
           </li>
-          <li id="slide3">
+          <li>
             <img src="./img/antonRaro3.jpg" alt="" />
           </li>
-          <li id="slide4">
+          <li>
             <img src="./img/antonRaro4.jpg" alt="" />
           </li>
         </ul>
 
-        <ul className="menu">
-          <li>
-            <a href="#slide1"></a>
-          </li>
-          <li>
-            <a href="#slide2"></a>
-          </li>
-          <li>
-            <a href="#slide3"></a>
-          </li>
-          <li>
-            <a href="#slide4"></a>
-          </li>
-          <li>
-            <a href="#slide5"></a>
-          </li>
-        </ul>
       </div>
       <div className='info-proyect'>
         <h5>ANTON Y EL MUNDO RARO</h5>
