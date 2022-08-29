@@ -12,27 +12,11 @@ import Layout from '../components/Layout';
               <img src="./img/nosinventamosunafuera2.png" alt="Nos inventamos una fuerza"/>
             </li>
             <li id="slide3">
-              <img src="./img/nosinventamosunafuera3.jpg" alt="Campo Santo"/>
+              <img src="./img/nosinventamosunafuera3.jpg" alt=""/>
             </li>
             <li id="slide4">
-              <img src="./img/nosinventamosunafuera4.jpg" alt="Campo Santo"/>
+              <img src="./img/nosinventamosunafuera4.JPG" alt=""/>
             </li>
-          </ul>
-  
-          <ul className="menu">
-            <li>
-              <a href="#slide1"></a>
-            </li>
-            <li>
-              <a href="#slide2"></a>
-            </li>
-            <li>
-              <a href="#slide3"></a>
-            </li>
-            <li>
-              <a href="#slide4"></a>
-            </li>
-            
           </ul>
         </div>
         <div className='info-proyect'>

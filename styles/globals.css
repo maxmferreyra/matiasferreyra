@@ -294,13 +294,14 @@ ul.slider li:target {
 } */
 
 .container-aboutMe {
-  height: 70vh;
+  height: 78vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
   background-image: url(../public/img/18033110_10213579583430931_4711515667954345015_n.jpg);
   background-size: cover;
+  width: 95%;
 }
 
 .about-me {

@@ -26,17 +26,17 @@ export default function Layout({children, title, description, home}) {
             <div className="contact-icons">
               <ul>
                 <li>
-                  <a href="https://api.whatsapp.com/send?phone=543513518295" rel="noopener noreferrer nofollow">
+                  <a href="https://api.whatsapp.com/send?phone=543513518295" target="blank">
                     <img src="./img/telefono-inteligente.png" alt="" />
                   </a>
                 </li>
                 <li>
-                  <a href="mailto:matiasgrosello@gmail.com" rel="noopener noreferrer nofollow">
+                  <a href="mailto:matiasgrosello@gmail.com" target="blank">
                     <img src="./img/mail.png" alt="" />
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.linkedin.com/in/matias-ferreyra-905316141/"rel="noopener noreferrer nofollow">
+                  <a href="https://www.linkedin.com/in/matias-ferreyra-905316141/"target="blank">
                     <img src="./img/linkedin.png" alt="" id="img-linkedin" />
                   </a>
                 </li>
