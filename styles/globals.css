@@ -237,15 +237,30 @@ nav a:hover {
 }
 
 .container-aboutMe {
+<<<<<<< HEAD
   height: 78vh;
   width: 95%;
+=======
+  width: 60%;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  border-left: 2px solid #4f4f4f8e;
+>>>>>>> 36a4125 (cambios 29-08)
 }
 
 .about-me {
   font-family: 'Rubik', sans-serif;
   padding-left: 40px;
+<<<<<<< HEAD
   width: 50%;
   font-size: 1em;
+=======
+  width: 60%;
+  font-size: 0.90em;
+>>>>>>> 36a4125 (cambios 29-08)
   line-height: 1.6em;
 }
 

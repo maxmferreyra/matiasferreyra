@@ -100,7 +100,7 @@ export default function Layout({children, title, description, home}) {
       </main>
       <nav>
         <Link href="/about">
-          <a>About me</a>
+          <a>Acerca de mí</a>
         </Link>
       </nav>
         {!home && (
