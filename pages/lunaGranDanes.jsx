@@ -48,7 +48,7 @@ export default function LunaGranDanes() {
           Después de su revolución, volvieron a trabajar en oficinas, tener citas incómodas en bares, etc. Pero también es la
           historia de un zombies de nuevo en humanos. Pero necesita ayuda: una misión perfecta para Luna y el Gran Danés.</p>
       
-      <a href="https://vimeo.com/343717259">Link a Vimeo</a>
+      <a target="blank" href="https://vimeo.com/343717259">Link a Vimeo</a>
       </div>     
     </Layout>
   )

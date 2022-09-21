@@ -41,7 +41,7 @@ export default function CruzRoja() {
             Animación: Agustina Ceballos Ghibaudi - Elena Aracena - Luca Tavecchio - Ramiro Montero - Santiago Zamora <br />
             Directora de Sonido: Julia Castro <br />
             Composición Cez Comerci</p>
-            <a href="https://www.youtube.com/watch?v=RnF0kQ_adEk">Link a Youtube</a>
+            <a target="blank" href="https://www.youtube.com/watch?v=RnF0kQ_adEk">Link a Youtube</a>
       </div>      
     </Layout>
   )

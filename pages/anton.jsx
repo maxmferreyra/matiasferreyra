@@ -31,7 +31,7 @@ export default function anton() {
           Antón deberá ir hasta el almacén de la Mujer Gigante a comprar el azúcar que necesita su mamá para hacer una
           nueva torta. Esta simple tarea se transformará sorpresivamente en una gran aventura que lo llevará hasta el Gran
           Árbol de las Orejas, lugar donde encontrará finalmente el azúcar para hacer la torta de cumpleaños.</p>
-          <a href="https://vimeo.com/67346451?embedded=true&source=vimeo_logo&owner=2168093">Link a Vimeo</a>
+          <a target="blank" href="https://vimeo.com/67346451?embedded=true&source=vimeo_logo&owner=2168093">Link a Vimeo</a>
       </div>      
     </Layout>
   )

@@ -30,7 +30,7 @@ import Layout from '../components/Layout';
             construimos en poco tiempo una familia, quizás esa con la que los cinco alguna vez soñamos.
             Este retrato intimo y enérgico es una forma de pensarlos a la distancia, poner sus cuerpos en movimiento y rendirle
             homenaje a al valor de la amistad.</p>
-            <a href="https://vimeo.com/479100375?embedded=true&source=vimeo_logo&owner=20334939">Link a Vimeo</a>
+            <a target="blank" href="https://vimeo.com/479100375?embedded=true&source=vimeo_logo&owner=20334939">Link a Vimeo</a>
         </div>      
       </Layout>
     )

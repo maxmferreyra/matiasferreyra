@@ -14,6 +14,9 @@ import Layout from '../components/Layout';
             <li>
               <img src="./img/unacasacondosperros3.png" alt="unacasacondosperros"/>
             </li>
+            <li>
+              <img src="./img/unaCasaConDosPerros4.jpg" alt="unacasacondosperros"/>
+            </li>
           </ul>
         </div>
         <div className='info-proyect'>

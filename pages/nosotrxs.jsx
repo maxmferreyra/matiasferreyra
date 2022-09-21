@@ -30,7 +30,7 @@ import Layout from '../components/Layout';
           <p>Un set en blanco. Una mujer sostiene una pregunta y un personaje encapuchado se resiste a responderla. La pregunta
             se vuelve otras. Una familia posa alrededor del padre para un retrato. Venus se busca en el espejo. Y una voz
             omnipresente exige respuestas, la respuesta es un grito.</p>
-            <a href="https://vimeo.com/207960859?embedded=true&source=vimeo_logo&owner=61150080">Link a Vimeo</a>
+            <a target="blank" href="https://vimeo.com/207960859?embedded=true&source=vimeo_logo&owner=61150080">Link a Vimeo</a>
         </div>      
       </Layout>
     )

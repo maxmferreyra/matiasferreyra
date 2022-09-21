@@ -33,7 +33,7 @@ export default function RenataNaza() {
         </ul>
         <p>Renata y Nazareno son dos mejores amigos, que juegan y hablan sobre sus sentimientos y experiencias. Extraños y
           divertidos seres cobran vida a partir de sus conversaciones y salen de ellos para vivir sus propias aventuras.</p>
-      <a href="https://vimeo.com/184771785?embedded=true&source=vimeo_logo&owner=55891624">Link a Vimeo</a>
+      <a target="blank" href="https://vimeo.com/184771785?embedded=true&source=vimeo_logo&owner=55891624">Link a Vimeo</a>
       </div> 
           
     </Layout>

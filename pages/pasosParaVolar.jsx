@@ -13,7 +13,10 @@ export default function PasosParaVolar() {
           </li>
           <li>
             <img src="./img/pasosParaVolar3.jpeg" alt=""/>
-          </li>   
+          </li>
+          <li>
+            <img src="./img/pasosparavolar4.jpg" alt=""/>
+          </li>    
         </ul>
         
       </div>

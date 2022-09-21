@@ -35,7 +35,7 @@ export default function Rutas() {
           nos muestra la necesidad de articulación de servicios para personas con discapacidad y nos muestra algunas
           herramientas para lograrlo.</p>
        
-      <a href="https://www.youtube.com/watch?v=Kagsd7KttkM">Link a Vimeo</a>
+      <a target="blank" href="https://www.youtube.com/watch?v=Kagsd7KttkM">Link a Youtube</a>
       </div>    
     </Layout>
   )
