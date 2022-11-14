@@ -102,9 +102,9 @@ export default function Layout({children, title, description, home}) {
         <Link href="/about">
           <a>Acerca de mí</a>
         </Link>
-        <Link href="/servicios">
+        {/* <Link href="/servicios">
           <a>Servicios</a>
-        </Link>
+        </Link> */}
       </nav>
         {!home && (
       <div className="container-backHome">
