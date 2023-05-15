@@ -80,10 +80,7 @@ export default function Layout({children, title, description, home}) {
             </Link> 
             <Link href="/meLoPuedoQuedar">
             <a>Me lo puedo quedar</a>
-            </Link> 
-            <Link href="/pasosParaVolar">
-            <a>Pasos para Volar</a>
-            </Link> 
+            </Link>
             <Link href="/renataNaza">
             <a>Renata, Nazareno y el mundo mágico</a>
             </Link> 
@@ -91,6 +88,9 @@ export default function Layout({children, title, description, home}) {
             <a>Rutas</a>
             </Link>  
           </div>
+            <Link href="/asesorias">
+            <a><h5 className="asesorias-title">ASESORÍAS <span>(proyectos)</span> </h5></a>
+            </Link>
           
         
       </section>

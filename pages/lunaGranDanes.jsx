@@ -41,12 +41,7 @@ export default function LunaGranDanes() {
           <li>Serie de animación. Cut out digital.</li>
           <li>Producido por: El perro en la luna y Osa, estudio.</li>
         </ul>
-        <p>Una niña y un perro. Luna es audaz, aventurera. El Gran Danés en cambio es perezoso y malhumorado. Prefiere
-          quedarse en casa. Su tamaño impone respeto, su personalidad no tanto.
-          Ella siempre tiene que arrastrarlo para salir. ¿Salir a dónde? ¡Afuera obvio! ¿Pero afuera dónde? Al mundo zombie. Si,
-          los zombies dominan la Tierra. Pero no hacen cosas muy diferentes a los humanos.
-          Después de su revolución, volvieron a trabajar en oficinas, tener citas incómodas en bares, etc. Pero también es la
-          historia de un zombies de nuevo en humanos. Pero necesita ayuda: una misión perfecta para Luna y el Gran Danés.</p>
+        <p>Luna es audaz y aventurera, el Gran Danés en cambio, es perezoso y malhumorado. Su tamaño impone respeto, su personalidad no tanto. Ella siempre tiene que arrastrarlo para salir. ¿Salir a dónde? ¡Afuera obvio! ¿Pero afuera dónde? Al mundo zombie. Si, los zombies dominan la Tierra. Pero no hacen cosas muy diferentes a los humanos. Después de su revolución, volvieron a trabajar en oficinas, tener citas incómodas en bares, etc. Pero también es la historia de un humano que quiere un mundo sólo de humanos, resistir al tirano es la misión perfecta para Luna y el Gran Danés.</p>
       
       <a target="blank" href="https://vimeo.com/343717259">Link a Vimeo</a>
       </div>     

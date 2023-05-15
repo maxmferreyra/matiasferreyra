@@ -27,11 +27,7 @@ export default function Defendernos() {
           <li>Guionista: Matias Ferreyra</li>
           <li>Córdoba, Argentina. 2020-2021</li>
         </ul>
-        <p>Una boxeadora profesional, una fotógrafa activista lesbiana de barrio y una trabajadora sexual militante nos invitan a
-          sumergirnos en un universo de estrategias de defensa y resistencia. La mezcla de sus historias de vida van desplegando
-          prácticas de libertad en un mundo que les limita y obliga a ser de una manera determinada. Sus historias se trenzan en
-          un relato colectivo con las experiencias de otrxs que intervienen la película como eco de las voces de nuestras
-          protagonistas.</p>
+        <p>Una boxeadora profesional, una fotógrafa lesbiana activista y una lider trabajadora sexual nos invitan a sumergirnos en un universo de estrategias de defensa y resistencia. La mezcla de sus historias de vida van desplegando prácticas de libertad en un mundo que les limita y obliga a ser de una manera determinada. Sus historias se trenzan en un relato colectivo con las experiencias de otrxs que intervienen en la película como eco de las voces de nuestras protagonistas.</p>
       </div>      
     </Layout>
   )

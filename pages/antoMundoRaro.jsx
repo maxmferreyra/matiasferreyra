@@ -27,14 +27,9 @@ export default function antonYelMundoRaro() {
           <li>Guión</li>
           <li>Producido por OSA, estudio de animación</li>
         </ul>
-        <p>Anton es un niño azul que vive con la Mujer gigante, su tía abuela en un almacén de barrio. Anton tiene una imaginación
-            poderosa pero no tiene muchos amigos y se aburre. Todo cambia cuando la mujer Gigante le muestra el pasaje hacia un
-            mundo raro que está muy cerca pero no puede verse a simple vista. Allí conoce a Selva una niña gris, que sabe flotar y
-            tiene una enciclopedia como objeto favorito.
-            En cada capítulo un problema cotidiano, o una pregunta que Anton se hace, se convierte en una increíble aventura en el
-            Mundo Raro.
-            Juntxs se encontrarán con misteriosos animales que hablan, rescatarán monstruos en riesgo, y se enfrentarán a
-            dudosos enemigos.</p>
+        <p>Anton es un niño azul y curioso que vive con la Mujer gigante, su tía abuela, en un almacén de barrio. Un día  la mujer Gigante le muestra el pasaje hacia un mundo raro que está muy cerca pero no puede verse a simple vista. Allí conoce a Selva, una niña gris, que sabe flotar y tiene una enciclopedia como objeto favorito. <br />
+        En cada capítulo un problema cotidiano, o una pregunta que Anton se hace, se convierte en una increíble aventura en el Mundo Raro. Allí se encontrarán con misteriosos animales que hablan, rescatarán monstruos en riesgo, y se enfrentarán a dudosos enemigos.
+        </p>
       </div>      
     </Layout>
   )

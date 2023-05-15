@@ -22,14 +22,11 @@ import Layout from '../components/Layout';
         <div className='info-proyect'>
           <h5>NOS INVENTAMOS UNA FUERZA</h5>
           <ul>
-            <li>Cortometraje documental. En desarrollo</li>
+            <li>Ensayo documental. En desarrollo</li>
             <li>Guión y dirección: Matías Ferreyra</li>
             <li>Córdoba, Argentina. 2020 - 2021</li>
           </ul>
-          <p>Matías, Emiliano, Nicolás, Alberto y yo, nos conocimos en la escuela de ballet de una teatro. Nos hicimos amigos y
-            construimos en poco tiempo una familia, quizás esa con la que los cinco alguna vez soñamos.
-            Este retrato intimo y enérgico es una forma de pensarlos a la distancia, poner sus cuerpos en movimiento y rendirle
-            homenaje a al valor de la amistad.</p>
+          <p>Matías, Emiliano, Nicolás, Alberto y yo, nos conocimos en la escuela de ballet de un teatro. Nos hicimos amigos y construimos, en poco tiempo, una familia, quizás esa con la que los cinco alguna vez soñamos. Este retrato íntimo y enérgico es una forma de pensarlos a la distancia, poner sus cuerpos en movimiento y rendirle homenaje al valor de la amistad.</p>
             <a target="blank" href="https://vimeo.com/479100375?embedded=true&source=vimeo_logo&owner=20334939">Link a Vimeo</a>
         </div>      
       </Layout>

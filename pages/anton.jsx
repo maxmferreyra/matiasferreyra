@@ -26,11 +26,7 @@ export default function anton() {
           <li>Guión</li>
           <li>Córdoba, Argentina. 2013 - 2015</li>
         </ul>
-        <p>Antón, un niño de 6 años, comienza un fantástico viaje a partir de un inesperado accidente doméstico: Fantasma, su
-          perro, se come la torta de cumpleaños de su hermana, a pocos minutos de que lleguen los invitados.
-          Antón deberá ir hasta el almacén de la Mujer Gigante a comprar el azúcar que necesita su mamá para hacer una
-          nueva torta. Esta simple tarea se transformará sorpresivamente en una gran aventura que lo llevará hasta el Gran
-          Árbol de las Orejas, lugar donde encontrará finalmente el azúcar para hacer la torta de cumpleaños.</p>
+        <p>Fantasma, el perro Antón (9), se come la torta de cumpleaños de su hermana, a pocos minutos de que lleguen los invitados. Antón debe ir hasta el almacén de la Mujer Gigante a comprar el azúcar que necesita su mamá para hacer una torta nueva. Esta simple tarea se transforma en una inesperada aventura con personajes raros que lo llevan hasta el Gran Árbol de las Orejas, lugar donde finalmente encuentra el azúcar que necesita.</p>
           <a target="blank" href="https://vimeo.com/67346451?embedded=true&source=vimeo_logo&owner=2168093">Link a Vimeo</a>
       </div>      
     </Layout>
