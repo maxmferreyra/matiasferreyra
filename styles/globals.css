@@ -147,7 +147,7 @@ main {
 }
 
 .info-proyect p {
-  font-size: 0.7em;
+  font-size: 0.8em;
   margin-top: 20px;
   line-height: 4.3vh;
   margin-bottom: 20px;
@@ -252,17 +252,17 @@ nav a:hover {
 .about-me {
   font-family: 'Rubik', sans-serif;
   padding-left: 40px;
-  font-size: 0.8em;
+  font-size: 0.9em;
   width: 70%;
-  line-height: 1.4em;
+  line-height: 1.9em;
 }
 
 .asesorias {
   font-family: 'Rubik', sans-serif;
   padding-left: 40px;
-  font-size: 0.8em;
+  font-size: 0.9em;
   width: 90%;
-  line-height: 1.6em;
+  line-height: 2.1em;
 }
 
 .asesorias-title {
@@ -272,10 +272,10 @@ nav a:hover {
   border-bottom: 1px solid rgb(143, 142, 142);
 }
 
-.asesorias-title span {
-  font-size: 11px;
-  color: rgba(29, 29, 29, 0.922);
+.asesorias span {
+  color: rgba(0, 0, 0, 0.785);
   margin-top: 5px;
+  font-weight: bold;
 }
 
 

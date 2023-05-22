@@ -27,7 +27,7 @@ export default function MeLoPuedoQuedar() {
           <li>Guionista</li>
         </ul>
         <p> Una perra llamada Shakira, un actor solitario, un perro que ve fantasmas, un periodista de apellido “gato”, una gata que lee clásicos...Estas son historias de animales y humanos, y de cómo conocerse cambió sus vidas. La narración se construye desde ambas perspectivas -humano y animal- mezclando documental, fantasía, humor y drama.</p>
-            <a target="blank" href="https://vimeo.com/310661000?embedded=true&source=vimeo_logo&owner=55891624">Link a Vimeo</a>
+            <a target="blank" href="https://vimeo.com/824869599">Link a Vimeo</a>
       </div>     
     </Layout>
   )
