@@ -147,7 +147,7 @@ main {
 }
 
 .info-proyect p {
-  font-size: 0.8em;
+  font-size: 0.6em;
   margin-top: 20px;
   line-height: 4.3vh;
   margin-bottom: 20px;
@@ -252,7 +252,7 @@ nav a:hover {
 .about-me {
   font-family: 'Rubik', sans-serif;
   padding-left: 40px;
-  font-size: 0.9em;
+  font-size: 0.7em;
   width: 70%;
   line-height: 1.9em;
 }
@@ -260,7 +260,7 @@ nav a:hover {
 .asesorias {
   font-family: 'Rubik', sans-serif;
   padding-left: 40px;
-  font-size: 0.9em;
+  font-size: 0.7em;
   width: 90%;
   line-height: 2.1em;
 }
